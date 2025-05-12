@@ -24,7 +24,7 @@ Bienvenido a mi sitio personal. Aquí encontrarás información sobre mí, mis p
 ### 🔍 Análisis de Datos con SteamCharts
 - **Repositorio:** [SteamCharts Data Analysis](https://github.com/FabricioChang/Proyecto-Analisis-de-Datos-SteamCharts)
 - **Descripción:** Análisis exploratorio y visualización de datos de juegos de Steam usando Python.
-- **Tecnologías:** Python, Pandas, Matplotlib, Jupyter Notebook
+- **Tecnologías:** Ruby, PhP, Matplotlib, Jupyter Notebook
 - **Estado:** ✅ Finalizado
 - **Captura de pantalla:**  
   ![Vista previa](ruta/a/la/captura1.png)
@@ -34,8 +34,8 @@ Bienvenido a mi sitio personal. Aquí encontrarás información sobre mí, mis p
 ### 💻 Lenguaje de Programación - Proyecto Final
 - **Repositorio:** [ProyectoLP](https://github.com/FabricioChang/ProyectoLP)
 - **Descripción:** Proyecto académico sobre análisis y procesamiento de lenguajes formales y autómatas.
-- **Tecnologías:** Python, PyQT5
-- **Estado:** 🛠 En desarrollo
+- **Tecnologías:** Python
+- **Estado:** ✅ Finalizado
 - **Captura de pantalla:**  
   ![Vista previa](ruta/a/la/captura2.png)
 
